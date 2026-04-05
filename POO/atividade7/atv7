@@ -1,0 +1,4 @@
+1-Responda a pergunta, o que e polimorfismo e qual sua utilização?
+Polimorfismo significa "muitas formas", é o termo em linguagens  orientadas a objetos que permite ao desenvolvedor usar o mesmo
+elemento de formas diferentes.
+A sua utilização denota uma situação na qual um objeto pode se comportar de maneiras diferentes ao receber uma mensagem.
